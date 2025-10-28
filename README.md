@@ -11,7 +11,7 @@ Fichiers :
 
 
 
-Auteurs : hg et [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : hg et [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Trappy Skippy](https://hackropole.fr/fr/challenges/crypto/fcsc2021-crypto-trappy-skippy/)
 
